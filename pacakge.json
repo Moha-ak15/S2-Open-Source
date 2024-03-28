@@ -1,0 +1,14 @@
+{
+    "private": false,
+    "name": "@Moha-ak15/S2-Open-Source",
+    "description": "Cours sur Open Source",
+    "homepage": "https://github.com/Moha-ak15/S2-Open-Source",
+    "bugs": {
+      "url": "https://github.com/Moha-ak15/S2-Open-Source/issues"
+    },
+    "author": {
+      "name": "moha OS",
+      "url": "https://github.com/Moha-ak15",
+      "email": "help@help.me"
+    }
+  }
