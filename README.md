@@ -1,17 +1,15 @@
-# @Moha-ak15/S2-Open-Source
+# S2-Open-Source
 
-## Installation 
+## Installation
 
-### NPM 
+### NPM Bootsrap
+
+#### Execute this command within the terminal window where the project is located.
 
 ```bash
-npm install
+npm install bootstrap@5.3.3
 
 ```
 
-### Yarn
 
-```bash
-yarn install
 
-```
