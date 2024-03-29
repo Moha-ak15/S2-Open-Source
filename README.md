@@ -10,6 +10,8 @@
 npm install bootstrap@5.3.3
 
 ```
+## For contributors
 
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 
