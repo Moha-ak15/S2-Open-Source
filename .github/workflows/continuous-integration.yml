@@ -1,0 +1,20 @@
+name: Continuous Integration
+
+on:
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  test:
+    name: Test the project
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Validation HTML
+      uses: checker/checker@v2
+      with:
+        path: .
+        checker: html
