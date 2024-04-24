@@ -1,17 +1,21 @@
 # S2-Open-Source
-
-## Installation
-
-### NPM Bootsrap
-
-#### Execute this command within the terminal window where the project is located.
-
+## NPM Installation 
 ```bash
-npm install bootstrap@5.3.3
-
+npm install
 ```
+
+## jest Installation
+#### this command create a basic package.json file with default values
+```bash
+npm init -y
+```
+
+#### This will add Jest to the devDependencies section of your package json file.
+```bash
+npm install --save-dev jest
+```
+
 ## For contributors
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
-
 
